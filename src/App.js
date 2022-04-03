@@ -1,7 +1,8 @@
+import Contenedor from "./components/Contenedor/Contenedor";
+
 function App() {
   return (
-    <div className="App">
-    </div>
+    <Contenedor />
   );
 }
 
